@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/tmp2/mpr_zad6/TestProject.iml" filepath="$USER_HOME$/tmp2/mpr_zad6/TestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assertj.iml" filepath="$PROJECT_DIR$/assertj.iml" />
+      <module fileurl="file://$USER_HOME$/tmp2/foo/foo.iml" filepath="$USER_HOME$/tmp2/foo/foo.iml" />
+    </modules>
+  </component>
+</project>
